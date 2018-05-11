@@ -1,0 +1,5 @@
+lmdb
+test_package/build
+conaninfo.txt
+conanbuildinfo.txt
+conanbuildinfo.cmake
